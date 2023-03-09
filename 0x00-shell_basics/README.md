@@ -12,3 +12,4 @@
 11-lists is a script to lists all files in the current directory,the parent of the working directory and the /boot directory in order in long list,
 12-file_type is a script to print the type of the file named iamafile in /tmp/iamafile,
 13-symbolic_link is a script to create a symbolic link to /bin/ls named __ls__ in current directory,
+14-copy_html is a script to copy all HTML files from the current working directory to the parent of the working directory and updating content,
