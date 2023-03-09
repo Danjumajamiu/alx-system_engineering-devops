@@ -7,4 +7,5 @@
 6-multiple-permissions is a script that  adds execute permission to the owner and the group owner, and read permission to other users, to file hello,7-everybody is a script that adds execution permission to the owner, the group owner and the other users, to the file hello,
 8-James-Bond is a script that sets no permission to owner and group but all permission to others,
 9-John-Doe is a script that sets permission to predefine to user group and others,
+10-mirror-permissions is a script that sets the mode of the file hello the same as olleh’s mode,
 
