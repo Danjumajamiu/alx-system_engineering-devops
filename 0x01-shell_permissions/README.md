@@ -8,4 +8,5 @@
 8-James-Bond is a script that sets no permission to owner and group but all permission to others,
 9-John-Doe is a script that sets permission to predefine to user group and others,
 10-mirror-permissions is a script that sets the mode of the file hello the same as olleh’s mode,
+11-directories-permissions is a script that adds execute permission to all subdirectories of the current directory for the owner,group and  others,
 
