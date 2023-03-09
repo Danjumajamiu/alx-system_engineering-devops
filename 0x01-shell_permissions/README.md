@@ -11,4 +11,4 @@
 11-directories-permissions is a script that adds execute permission to all subdirectories of the current directory for the owner,group and  others,
 12-directory-permission is a script that creates a directory called my-dir with permissions 751 in the working directory,
 13-change-group is a script that changes the group owner to school for the file hello,
-
+100--change-owner-and-group is script that changes owner to vincent and group owner to staff for all files and directories in the working directory,
