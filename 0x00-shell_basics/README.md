@@ -10,3 +10,4 @@
 9-firstdirdeletion is a script to delete the directory my_first_directory that is in the /tmp directory,
 10-back is a script to change the working directory to the previous one,
 11-lists is a script to lists all files in the current directory,the parent of the working directory and the /boot directory in order in long list,
+12-file_type is a script to print the type of the file named iamafile in /tmp/iamafile,
