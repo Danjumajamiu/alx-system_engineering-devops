@@ -13,4 +13,5 @@
 13-change-group is a script that changes the group owner to school for the file hello,
 100--change-owner-and-group is script that changes owner to vincent and group owner to staff for all files and directories in the working directory,
 101--symbolic-link-permissions is  a script that changes the owner and the group owner of _hello to vincent and staff respectively,
+102-if-only is  a script that changes the owner of the file hello to betty only if it is owned by the user guillaume,
 
