@@ -17,5 +17,5 @@
 17. 16-whatsnext is a script to Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 18. 17-hidethisword is a script to Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 19. 18-letteronly is a script to Display all lines of the file /etc/ssh/sshd-config starting with a letter
-20. 19-A-Z is a script to Replace all characters A and c from input to Z and e respectively.
+20. 19-AZ is a script to Replace all characters A and c from input to Z and e respectively.
 
