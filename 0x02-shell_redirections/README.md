@@ -17,8 +17,9 @@
 17. 16-whatsnext is a script to Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 18. 17-hidethisword is a script to Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 19. 18-letteronly is a script to Display all lines of the file /etc/ssh/sshd-config starting with a letter
-20. 19-AZ is a script to Replace all characters A and c from input to Z and e respectively.
+20. 19-AZ is a script to Replace all characters A and c from input to Z and e respectively
 21. 20-hiago is a script that removes all letters c and C from input
 22. 21-reverse is a script that reverse its input
 23. 22-users-and-homes is a script that displays all users and their home directories, sorted by users
+24. 100-empty-casks is a script that finds all empty files and directories in the current directory and all sub-directories
 
