@@ -7,4 +7,5 @@
 7. 6-third-line is a script that displays the third line of the file iacta
 8. 7-file is a shell script that creates a file named exactly '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' contain the text Best School ending new line
 9. 8-cwd-state is a script that writes into the file ls-cwd-content the result of the command ls -la
+10. 9-duplicate-last-line is a script that duplicates the last line of the file iacta
 
