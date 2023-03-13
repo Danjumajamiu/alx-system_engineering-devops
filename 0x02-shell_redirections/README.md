@@ -4,6 +4,7 @@
 4. 3-twofiles is script to Display the content of /etc/passwd and /etc/hosts
 5. 4-lastlines is a script to Display the last 10 lines of /etc/passwd
 6. 5-firstlines is a script to Display the first 10 lines of /etc/passwd
-7. 6-third-line is a script that displays the third line of the file 'iacta'
+7. 6-third-line is a script that displays the third line of the file iacta
 8. 7-file is a shell script that creates a file named exactly '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' contain the text Best School ending new line
+9. 8-cwd-state is a script that writes into the file ls-cwd-content the result of the command ls -la
 
