@@ -5,4 +5,5 @@
 5. 4-global-variables is a script that lists environment variables.
 6. 5-local-variables is a script that lists all local variables and environment variables, and functions.
 7. 6-create-local-variable is a script that creates a new local variable.
+8. 7-create-global-variable is a script that creates a new global variable.
 
