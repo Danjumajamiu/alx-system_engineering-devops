@@ -13,10 +13,10 @@
 13. 12-newest-files is a script that displays the 10 newest files in the current directory
 14. 13-unique is a script that takes a list of words as input and prints only words that appear exactly once
 15. 14-findthatword is a script to Display lines containing the pattern “root” from the file /etc/passwd
-16. 15-countthatword is a script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+16. 15-countthatword is a script to Display the number of lines that contain the pattern ``“bin”`` in the file /etc/passwd
 17. 16-whatsnext is a script to Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 18. 17-hidethisword is a script to Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
-19. 18-letteronly is a script to Display all lines of the file /etc/ssh/sshd-config starting with a letter
+19. 18-letteronly is a script to Display all lines of the file `/etc/ssh/sshd-config` starting with a letter
 20. 19-AZ is a script to Replace all characters A and c from input to Z and e respectively
 21. 20-hiago is a script that removes all letters c and C from input
 22. 21-reverse is a script that reverse its input
