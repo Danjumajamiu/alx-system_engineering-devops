@@ -7,3 +7,4 @@
 7. 6-create-local-variable is a script that creates a new local variable.
 8. 7-create-global-variable is a script that creates a new global variable.
 9. 8--true-knowledge is  a script that prints result of the addition of 128 with the value in the environment variable TRUEKNOWLEDGE, on a new line.
+10. 9-divide-and-rule is a script that prints the result of POWER divided by DIVIDE, followed by a new line.
