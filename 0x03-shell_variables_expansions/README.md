@@ -14,4 +14,4 @@
 14. 13-print-float is a script that prints a number with two decimal places, followed by a new line.
 15. 100-decimal-to-hexadecimal is a script that converts a number from base 10 to base 16.
 16. 101-rot13 is a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
-
+17. 102-odd is a script that prints every other line from the input, starting with the first line.
